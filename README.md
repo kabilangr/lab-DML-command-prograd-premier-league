@@ -32,7 +32,7 @@
 
 > 9. **Insert umpire**
 
-> 10. **Insert umpire_type
+> 10. **Insert umpire_type**
 
 > 11. **Insert game_umpire_type**
 
