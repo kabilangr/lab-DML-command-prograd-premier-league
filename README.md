@@ -8,58 +8,48 @@
 ![sql](https://user-images.githubusercontent.com/58466121/76389844-3c85d400-6392-11ea-875f-8cd9676219b2.JPG)
 
 
-![sql](https://user-images.githubusercontent.com/61002120/76393041-bcaf3800-6398-11ea-9f16-5c1c844c8b10.jpg)
+![5 1](https://user-images.githubusercontent.com/61002120/76398491-f7b66900-63a2-11ea-8283-0db1f3abd862.png)
 
 
 ## STEPS TO BE FOLLOWED
 
 
-> 1. **Create skill table**
+> 1. **Insert skill**
 
-> 2. **Create city table**
+> 2. **Insert city**
 
-> 3. **Create venue table**
+> 3. **Insert venue**
 
-> 4. **Create team table**
+> 4. **Insert team**
 
-> 5. **Create player table**
+> 5. **Insert player**
 
-> 6. **Create outcome table**
+> 6. **Insert outcome**
 
-> 7. **Create innings table**
+> 7. **Insert innings**
 
-> 8. **Create game table**
+> 8. **Insert game**
 
-> 9. **Create umpire table**
+> 9. **Insert umpire**
 
-> 10. **Create umpire_type table**
+> 10. **Insert umpire_type
 
-> 11. **Create game_umpire_type table**
+> 11. **Insert game_umpire_type**
 
-> 12. **Create wicket_type table**
+> 12. **Insert wicket_type**
 
-> 13. **Change delivery table**
+> 13. **Insert delivery**
 
-> 14. **Change wicket table**
+> 14. **Insert wicket**
 
-> 15. **Create extratype table**
+> 15. **Insert extratype**
 
-> 16. **Create extradelivery table**
+> 16. **Insert extradelivery**
 
-> 17. **Alter column name id**
+> 17. **Update venue**
 
-> 18. **Alter column name city**
+> 18. **Update team**
 
-> 19. **Alter column name caption**
+> 19. **Update player**
 
-> 20. **Delete column status**
-
-> 21. **Drop table delivery**
-
-> 22. **Drop table game**
-
-> 23. **Alter column name innings_number**
-
-> 24. **Alter column name wickets**
-
-> 25. **Drop table extratype**
+> 20. **Delete player**
