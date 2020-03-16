@@ -1,23 +1,41 @@
+-- PROGRESSION 1:
 
-## PROGRESSION 1:
+--1. Insert skill
 
-1. Insert into city
-2. Insert into referee
-3. Insert into innings
-4. Insert into extra_type
-5. Insert into skill
-6. Insert into team
-7. Insert into player
-8. Insert into venue
-9. Insert into event
-10. Insert into extra_event
-11. Insert into outcome
-12. Insert into game
-13. Update player table
-14. Update player table
-15. Update player table
-16. Update player table
-17. Delete from extra_type
-18. Delete from referee
-19. Delete from player
-20. Delete from outcome
+--2. Insert city
+
+--3. Insert venue
+
+--4. Insert team
+
+--5. Insert player
+
+--6. Insert outcome
+
+--7. Insert innings
+
+--8. Insert game
+
+--9. Insert umpire
+
+--10. Insert umpire_type
+
+--11. Insert game_umpire_type
+
+--12. Insert wicket_type
+
+--13. Insert delivery
+
+--14. Insert wicket
+
+--15. Insert extratype
+
+--16. Insert extradelivery
+
+--17. Update venue
+
+--18. Update team
+
+--19. Update player
+
+--20. Delete player
