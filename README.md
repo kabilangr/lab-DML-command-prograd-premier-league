@@ -31,7 +31,7 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 2. ***Use the same file to write all your queries.***
 3. ***Select the entire query and run it to see the output.***
 4. ***Save the file as your_file_name.sql and upload it in github.***
-5. ***Refer ddl - ppl.sql file.*** 
+5. ***Refer dml - ppl.sql file.*** 
 
 ## Requirements
 Oracle 11g Express edition and Oracle SQL Developer
